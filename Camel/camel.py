@@ -8,4 +8,3 @@ for char in camelCase:
         snake_case += char
 snake_case = snake_case.lstrip("_")
 print(snake_case)
-
